@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7316069-7b6a-44d3-ab53-5401a0be4a2e" name="Default Changelist" comment="class opdrachen">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opdrachts/easy/AverageValueLambdas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opdrachts/easy/ConvertToUpperCaseLambdas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opdrachts/easy/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opdrachts/easy/FindMaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opdrachts/easy/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opdrachts/easy/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opdrachts/easy/SumMultiplesThreeAndFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opdrachts/easy/SumOfTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opdrachts/moderate/EvenFibonacciSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opdrachts/moderate/FibonacciNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opdrachts/moderate/FizBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opdrachts/moderate/PalindromeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opdrachts/moderate/PrimeNumber.java" afterDir="false" />
+    <list default="true" id="b7316069-7b6a-44d3-ab53-5401a0be4a2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/opdrachts/easy/NthOddElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/intecintec/opdrachts/easy/ConvertToUpperCaseLambdas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/intecintec/opdrachts/easy/ConvertToUpperCaseLambdas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/intecintec/opdrachts/moderate/EvenFibonacciSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/intecintec/opdrachts/moderate/EvenFibonacciSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opdrachts/moderate/EvenFibonacciSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/opdrachts/moderate/EvenFibonacciSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +35,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ConvertToUpperCaseLambdas">
+  <component name="RunManager" selected="Application.NthOddElement">
     <configuration name="AverageValueLambdas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="opdrachts.easy.AverageValueLambdas" />
       <module name="intecintec" />
@@ -85,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="opdrachts.easy.FindMaximum" />
+    <configuration name="NthOddElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opdrachts.easy.NthOddElement" />
       <module name="intecintec" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NthOddElement" />
+        <item itemvalue="Application.EvenFibonacciSum" />
         <item itemvalue="Application.ConvertToUpperCaseLambdas" />
         <item itemvalue="Application.AverageValueLambdas" />
-        <item itemvalue="Application.EvenFibonacciSum" />
         <item itemvalue="Application.PalindromeCheck" />
-        <item itemvalue="Application.FindMaximum" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +122,14 @@
       <option name="presentableId" value="Default" />
       <updated>1596786513053</updated>
     </task>
+    <task id="LOCAL-00001" summary="class opdrachen">
+      <created>1596792724150</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596792724150</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -143,21 +141,21 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="344" y="25" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1596792724028" />
-    <state width="1398" height="135" key="GridCell.Tab.0.bottom" timestamp="1596792649451">
+    <state width="1398" height="135" key="GridCell.Tab.0.bottom" timestamp="1596793267525">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1398" height="135" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1596792649451" />
-    <state width="1398" height="135" key="GridCell.Tab.0.center" timestamp="1596792649450">
+    <state width="1398" height="135" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1596793267525" />
+    <state width="1398" height="135" key="GridCell.Tab.0.center" timestamp="1596793267524">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1398" height="135" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1596792649450" />
-    <state width="1398" height="135" key="GridCell.Tab.0.left" timestamp="1596792649450">
+    <state width="1398" height="135" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1596793267524" />
+    <state width="1398" height="135" key="GridCell.Tab.0.left" timestamp="1596793267524">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1398" height="135" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1596792649450" />
-    <state width="1398" height="135" key="GridCell.Tab.0.right" timestamp="1596792649451">
+    <state width="1398" height="135" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1596793267524" />
+    <state width="1398" height="135" key="GridCell.Tab.0.right" timestamp="1596793267525">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1398" height="135" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1596792649451" />
+    <state width="1398" height="135" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1596793267525" />
   </component>
 </project>

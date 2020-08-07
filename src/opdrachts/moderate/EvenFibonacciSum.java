@@ -21,7 +21,7 @@ public class EvenFibonacciSum {
 
         int x = 0;
         int y = 1;
-        int z = x + y;
+        int z;
         int sumEven = 0;
 
         while (n > 0){
@@ -30,6 +30,7 @@ public class EvenFibonacciSum {
             x = z;
             if(n % 2 == 0){
                 sumEven += n;
+                break;
             }
             n--;
         }

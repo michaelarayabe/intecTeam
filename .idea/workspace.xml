@@ -1,13 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7316069-7b6a-44d3-ab53-5401a0be4a2e" name="Default Changelist" comment="" />
+    <list default="true" id="b7316069-7b6a-44d3-ab53-5401a0be4a2e" name="Default Changelist" comment="class opdrachen">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdrachts/easy/AverageValueLambdas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdrachts/easy/ConvertToUpperCaseLambdas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdrachts/easy/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdrachts/easy/FindMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdrachts/easy/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdrachts/easy/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdrachts/easy/SumMultiplesThreeAndFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdrachts/easy/SumOfTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdrachts/moderate/EvenFibonacciSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdrachts/moderate/FibonacciNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdrachts/moderate/FizBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdrachts/moderate/PalindromeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdrachts/moderate/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1flIzPtlQRncuzZRm9ikyGRydEm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,14 +42,68 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="opdrachts.TestClass" />
+  <component name="RunManager" selected="Application.ConvertToUpperCaseLambdas">
+    <configuration name="AverageValueLambdas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opdrachts.easy.AverageValueLambdas" />
       <module name="intecintec" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="opdrachts.*" />
+          <option name="PATTERN" value="opdrachts.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertToUpperCaseLambdas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opdrachts.easy.ConvertToUpperCaseLambdas" />
+      <module name="intecintec" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="opdrachts.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvenFibonacciSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opdrachts.moderate.EvenFibonacciSum" />
+      <module name="intecintec" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="opdrachts.moderate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opdrachts.easy.FindMaximum" />
+      <module name="intecintec" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="opdrachts.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opdrachts.moderate.PalindromeCheck" />
+      <module name="intecintec" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="opdrachts.moderate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -32,7 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestClass" />
+        <item itemvalue="Application.ConvertToUpperCaseLambdas" />
+        <item itemvalue="Application.AverageValueLambdas" />
+        <item itemvalue="Application.EvenFibonacciSum" />
+        <item itemvalue="Application.PalindromeCheck" />
+        <item itemvalue="Application.FindMaximum" />
       </list>
     </recent_temporary>
   </component>
@@ -48,5 +133,31 @@
       <updated>1596786513053</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="class opdrachen" />
+    <option name="LAST_COMMIT_MESSAGE" value="class opdrachen" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="344" y="25" key="CommitChangelistDialog2" timestamp="1596792707559">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="344" y="25" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1596792707559" />
+    <state width="1398" height="135" key="GridCell.Tab.0.bottom" timestamp="1596792649451">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="135" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1596792649451" />
+    <state width="1398" height="135" key="GridCell.Tab.0.center" timestamp="1596792649450">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="135" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1596792649450" />
+    <state width="1398" height="135" key="GridCell.Tab.0.left" timestamp="1596792649450">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="135" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1596792649450" />
+    <state width="1398" height="135" key="GridCell.Tab.0.right" timestamp="1596792649451">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="135" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1596792649451" />
   </component>
 </project>
